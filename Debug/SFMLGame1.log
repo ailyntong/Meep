@@ -1,0 +1,65 @@
+﻿Build started 8/5/2015 1:31:59 PM.
+     1>Project "C:\Users\ailyn\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\SFML-2.3.1-32b\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bullet.cpp Entity.cpp Game.cpp Life.cpp Main.cpp MovingEntity.cpp Meep.cpp Obstacle.cpp Player.cpp Screen.cpp
+         Screen.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         Player.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+         Obstacle.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\obstacle.cpp(9): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Meep.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\meep.cpp(43): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         MovingEntity.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+         Main.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+         Life.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\life.cpp(6): warning C4244: 'argument' : conversion from 'float' to 'int16_t', possible loss of data
+         Game.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\game.cpp(4): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+         Entity.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+         Bullet.cpp
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(55): warning C4244: 'initializing' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\resources.h(57): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\ailyn\documents\visual studio 2013\projects\sfmlgame1\entity.h(35): warning C4244: 'return' : conversion from 'const float' to 'int', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ailyn\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-2.3.1-32b\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-main-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ailyn\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ailyn\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.lib" /MACHINE:X86 Debug\Bullet.obj
+         Debug\Entity.obj
+         Debug\Game.obj
+         Debug\Life.obj
+         Debug\Main.obj
+         Debug\MovingEntity.obj
+         Debug\Meep.obj
+         Debug\Obstacle.obj
+         Debug\Player.obj
+         Debug\Screen.obj
+         SFMLGame1.vcxproj -> C:\Users\ailyn\documents\visual studio 2013\Projects\SFMLGame1\Debug\SFMLGame1.exe
+     1>Done Building Project "C:\Users\ailyn\documents\visual studio 2013\Projects\SFMLGame1\SFMLGame1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.11
